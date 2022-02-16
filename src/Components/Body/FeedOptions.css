@@ -1,0 +1,25 @@
+.feedoptions{
+    display: flex;
+    flex-direction: row;
+    padding:10px;
+    margin-left:5px;
+}
+   .Iconoptions{
+       font-size: 30px;
+       
+   } 
+
+
+
+.feedoptions>h3{
+    font-size: 20px;
+    color: gray;
+    padding: 5px;
+}
+.Iconoptions{
+    color: gray;
+}
+
+.Iconoptions:hover{
+    cursor: pointer;
+}
